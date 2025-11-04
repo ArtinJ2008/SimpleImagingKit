@@ -1,6 +1,6 @@
 module SimpleImagingKit
 
-import DICOM                     # use DICOM.tag"..." and DICOM.dcmdir_parse
+import DICOM
 using Images
 using ImageView
 using ImageCore
