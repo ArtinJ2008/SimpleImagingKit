@@ -1,0 +1,16 @@
+name = "SimpleImagingKit"
+uuid = "53e7315a-d397-4749-a7a2-1a79c8910731"
+authors = ["msdjv "]
+version = "0.1.0"
+
+[deps]
+DICOM = "a26e6606-dd52-5f6a-a97f-4f611373d757"
+ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+
+[compat]
+DICOM = "0.11.0"
+ImageCore = "0.10.5"
+ImageView = "0.13.0"
+Images = "0.26.2"
